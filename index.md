@@ -1,2 +1,2 @@
 ##  Contact us
-[mohammed@elbouzrouti.com](mailto:mohammed@elbouzrouti.com)
+> [mohammed@elbouzrouti.com](mailto:mohammed@elbouzrouti.com)
