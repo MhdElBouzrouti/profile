@@ -1,6 +1,5 @@
 theme: jekyll-theme-minimal
 title: Mohammed EL BOUZROUTI
 description: Senior software engineer
-site:
-   github:
-     is_project_page: false
+github:
+  is_project_page: false
