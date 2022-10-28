@@ -1,14 +1,4 @@
-
-
-
-
-
-
-
-
-
-
-I am a java developer, working in the Paris area.
+> I am a java developer, working in the Paris area.
 
 ___
 
